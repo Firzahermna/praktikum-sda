@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/firza/Downloads/POSTTEST_SDA/POSTTEST_1",
-      "program": "c:/Users/firza/Downloads/POSTTEST_SDA/POSTTEST_1/build/Debug/outDebug",
+      "cwd": "c:/Users/firza/Downloads/POSTTEST_SDA/POSTTEST_2",
+      "program": "c:/Users/firza/Downloads/POSTTEST_SDA/POSTTEST_2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
